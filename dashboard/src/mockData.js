@@ -22,7 +22,7 @@ export const mockBuilds = [
   {
     id: 3,
     commit_sha: "9e8d7c6",
-    author: "Vyom",
+    author: "Aaryan",
     message: "Install heavy machine learning dependency",
     timestamp: "11:15 AM",
     size_mb: 1450,
@@ -32,7 +32,7 @@ export const mockBuilds = [
   {
     id: 4,
     commit_sha: "1a2b3c4",
-    author: "Pooja",
+    author: "Liya",
     message: "Refactor Dockerfile with multi-stage build",
     timestamp: "12:00 PM",
     size_mb: 320,
